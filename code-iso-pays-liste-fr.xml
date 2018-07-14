@@ -1,0 +1,345 @@
+	<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--see http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm for code updates
+	see http://www.un.org/en/members/index.shtml for a list of country names.-->
+
+	<countryset>
+
+<!-- A -->
+
+	<country id="AF">Afghanistan</country>
+	<country id="ZA">Afrique du Sud (République d')</country>
+	<!--<country id="">Akrotiri and Dhekelia</country> The Sovereign Base Areas of Akrotiri and Dhekelia, Cyprus, Greece--><!--<country id="">Akrotiri et Dhekelia</country> Bases souveraines britanniques du compté d'Akrotiri et de Dhekelia, Chypre, Grèce-->
+	<country id="AX">Åland (Archipel d')</country>
+	<country id="AL">Albanie</country>
+	<country id="DZ">Algérie</country>
+	<country id="DE">Allemagne</country>
+	<country id="AD">Andorre</country>
+	<country id="AO">Angola</country>
+	<country id="AI">Anguilla (Archipel d')</country>
+	<country id="AQ">Antarctique</country>
+	<country id="AG">Antigua-et-Barbuda (État Îles d')</country>
+	<country id="SA">Arabie saoudite</country>
+	<country id="AR">Argentine</country>
+	<country id="AM">Arménie</country>
+	<country id="AW">Aruba (Île d')</country>
+	<!--<country id="">Ashmore et Cartier (Îles)</country>-->
+	<country id="AU">Australie</country>
+	<country id="AT">Austriche</country>
+	<country id="AZ">Azerbaïdjan</country>
+
+<!-- B -->
+
+	<country id="BS">Bahamas (Archipel des)</country>
+	<country id="BH">Bahreïn</country>
+	<country id="BD">Bangladesh</country>
+	<country id="BB">Barbade</country>
+	<!--<country id="">Bassas da India (Atoll)</country> District des Terres australes et antarctiques françaises-->
+	<country id="BY">Bélarus</country>
+	<country id="BE">Belgique</country>
+	<country id="BZ">Belize</country>
+	<country id="BJ">Bénin</country>
+	<country id="BM">Bermudes</country>
+	<country id="BT">Bhoutan</country>
+	<country id="BO">Bolivie (État plurinational de Bolivie)</country>
+	<country id="BA">Bosnie-Herzégovine</country>
+	<country id="BW">Botswana</country>
+	<country id="BV">Bouvet (Île de)</country>
+	<country id="BR">Brésil</country>
+	<country id="BN">Brunei (Sultanat de Brunei Darussalam)</country>
+	<country id="BG">Bulgarie</country>
+	<country id="BF">Burkina Faso</country>
+	<country id="BI">Burundi (République du)</country>
+
+<!-- C -->
+
+	<country id="CV">Capo Verde (République de)</country>
+	<country id="KH">Cambodge</country>
+	<country id="CM">Cameroun (République du)</country>
+	<country id="CA">Canada</country>
+	<country id="CF">Centrafrique (République Centrafricaine)</country>
+	<country id="CL">Chili</country>
+	<country id="CN">Chine (République populaire de)</country>
+	<country id="CY">Chypre</country>
+	<country id="CO">Colombie</country>
+	<country id="KM">Comores</country>
+	<country id="CG">Congo Brazzaville (République du)</country>
+	<country id="CD">Congo Kinshasa (République démocratique du)</country>
+	<country id="KP">Corée du nord (République populaire démocratique de)</country>
+	<country id="KR">Corée du Sud (République de)</country>
+	<country id="CR">Costa Rica</country>
+	<country id="CI">Côte d'Ivoire</country>
+	<country id="HR">Croatie</country>
+	<country id="CU">Cuba</country>
+	<country id="CW">Curaçao (Pays de)</country>
+
+<!-- D -->
+
+	<country id="DK">Danemark</country>
+	<country id="DJ">Djibouti</country>
+	<country id="DM">Dominique (La)</country>
+	<country id="DO">République Dominicaine</country>
+
+<!-- E -->
+
+	<country id="EC">Équateur</country>
+	<country id="EG">Ègypte</country>
+	<country id="AE">Émirats arabes unis</country>
+	<country id="SV">Salvador (République du)</country>
+	<country id="ER">Érythrée</country>
+	<country id="ES">Espagne</country>
+	<country id="EE">Estonie</country>
+	<country id="US">États-Unis d'Amerique</country>
+	<country id="ET">Éthiopie</country>
+
+<!-- F -->
+
+	<country id="RU">Fédération de Russie</country>
+	<country id="FJ">Fidji</country>
+	<country id="FI">Finlande</country>
+	<country id="FR">France</country>
+	<country id="GF">Guyane Française</country>
+	<country id="PF">Polinésie Française</country>
+
+<!-- G -->
+
+	<country id="GA">Gabon</country>
+	<country id="GM">Gambie</country>
+	<!--<country id="">Gaza (Bande de)</country> voir Palestine-->
+	<country id="GE">Géorgie</country>
+	<country id="GS">Géorgie du Sud et Îles Sandwich du Sud</country>
+	<country id="GH">Ghana</country>
+	<country id="GI">Gibraltar</country>
+	<country id="GR">Grèce</country>
+	<country id="GL">Groenlande</country>
+	<country id="GD">Grenade (La)</country>
+	<country id="GP">Guadeloupe</country>
+	<country id="GU">Guam (Île de)</country>
+	<country id="GT">Guatemala</country>
+	<country id="GG">Guernsey (Île de)</country>
+	<country id="GN">Guinée</country>
+	<country id="GQ">Guinée Equatoriale (République de)</country>
+	<country id="GW">Guinée-Bissao (République de)</country>
+	<country id="GY">Guyana (République coopérative du)</country>
+
+<!-- H -->
+
+	<country id="HT">Haiti (République d'')</country>
+	<country id="HN">Honduras</country>
+	<country id="HK">Hong Kong</country>
+	<country id="HU">Hongrie</country>
+
+<!-- I -->
+
+	<country id="KY">Îles Caïmans</country>
+	<country id="CX">Île Christmas</country>
+	<!--<country id="">Île Clipperton (Atoll)</country>-->
+	<country id="CC">Îles Cocos (Archipel des)</country>
+	<country id="CK">Îles Cook (État Archipel des)</country>
+	<!--<country id="">Îles Corail (Îles de la Mer de Corail)</country>Gay and Lesbian Kingdom of the Coral Sea Islands, Australie-->
+	<!--<country id="">Île Europe</country>-->
+	<country id="FK">Îles Falkland (Îles Malouines - Archipel des)</country>
+	<country id="FO">Îles Féroé (Archipel des)</country>
+	<!--<country id="">Îles Glorieuses (Atoll des)</country> District des Terres australes et antarctiques françaises-->
+	<country id="HM">Îles Heard-et-MacDonald (Archipel des)</country>
+	<country id="SJ">Île Jan Mayen</country>
+	<!--<country id="">Île Juan de Nova</country> District des Terres australes et antarctiques françaises-->
+	<country id="MP">Îles Mariannes (Îles septentrionales)</country>
+	<country id="MH">Îles Marshall (État Archipel République des)</country>
+	<country id="NF">Île Norfolk</country>
+	<country id="PN">Îles Pitcairn (Archipel des)</country>
+	<country id="VG">Îles Vierges (Archipel des)</country>
+	<country id="IN">Inde</country>
+	<country id="ID">Indonésie</country>
+	<country id="IR">Iran</country>
+	<country id="IQ">Iraq</country>
+	<country id="IE">Irlande</country>
+	<country id="IS">Islande</country>
+	<country id="IL">Israël</country>
+	<country id="IT">Italie</country>
+
+<!-- J -->
+
+	<country id="JM">Jamaïque</country>
+	<country id="JE">Jersey (Île de)</country>
+	<country id="JP">Japon</country>
+	<country id="JO">Jordanie</country>
+
+<!-- K -->
+
+	<country id="KZ">Kazakhstan</country>
+	<country id="KE">Kenya</country>
+	<country id="KI">Kiribati (État Archipel de la république des)</country>
+	<country id="KG">Kirghizistan</country>
+	<country id="KW">Kowëit</country>
+
+<!-- L -->
+
+	<country id="RE">La Réunion (Île de)</country>
+	<country id="LA">Laos (République démocratique du)</country>
+	<country id="LV">Lettonie</country>
+	<country id="LB">Liban</country>
+	<country id="LS">Lesotho</country>
+	<country id="LR">Libéria</country>
+	<country id="LY">Libye</country>
+	<country id="LI">Liechtenstein</country>
+	<country id="LT">Lituanie</country>
+	<country id="LU">Luxembourg</country>
+
+<!-- M -->
+
+	<country id="MO">Macao</country>
+	<country id="MK">Macédoine (Republique de)</country>
+	<country id="MG">Madagascar</country>
+	<country id="IM">Man (Île de)</country>
+	<country id="MW">Malawi (République du)</country>
+	<country id="MY">Malaisie</country>
+	<country id="MV">Maldives (République des)</country>
+	<country id="ML">Mali</country>
+	<country id="MT">Malte</country>
+	<country id="MA">Maroc</country>
+	<country id="MQ">Martinique</country>
+	<country id="MR">Mauritanie</country>
+	<country id="MU">Maurice (République de)</country>
+	<country id="YT">Mayotte</country>
+	<country id="MX">Mexique</country>
+	<country id="FM">Micronésie (États fédérés de)</country>
+	<country id="MD">Moldova (République de)</country>
+	<country id="MC">Monaco</country>
+	<country id="MN">Mongolie</country>
+	<country id="ME">Monténégro</country>
+	<country id="MS">Montserrat (Île)</country>
+	<country id="MZ">Mozambique</country>
+	<country id="MM">Myanmar (Birman)</country>
+
+<!-- N -->
+
+	<country id="NA">Namibie</country>
+	<country id="NR">Nauru</country>
+	<!--<country id="">Navasse (Île de la)</country>-->
+	<country id="NP">Népal</country>
+	<country id="NI">Nicaragua</country>
+	<country id="NE">Niger</country>
+	<country id="NG">Nigéria</country>
+	<country id="NU">Niue</country>
+	<country id="NO">Norvège</country>
+	<country id="NC">Nouvelle-Calédonie</country>
+	<country id="NZ">Nouvelle-Zélande</country>
+
+<!-- O -->
+
+	<country id="OM">Oman</country>
+	<country id="UG">Ouganda (République de l')</country>
+	<country id="UZ">Ouzbékistan (République d')</country>
+
+<!-- P -->
+
+	<country id="PK">Pakistan</country>
+	<country id="PW">Palaos (République des)</country>
+	<country id="PS">Palestine (Bande de Gaza et Cisgiordanie)</country>
+	<country id="PA">Panama</country>
+	<country id="PG">Papouasie-Nouvelle-Guinée</country>
+	<!--<country id="">Paracels (Îles)</country>-->
+	<country id="PY">Paraguay</country>
+	<country id="NL">Pays-Bas</country>
+	<country id="PE">Pérou</country>
+	<country id="PH">Philippines</country>
+	<country id="PL">Pologne</country>
+	<country id="PR">Porto Rico (Île de)</country>
+	<country id="PT">Portugal</country>
+	
+
+<!-- Q -->
+
+	<country id="QA">Qatar</country>
+
+<!-- R -->
+
+	<country id="DO">République Dominicaine</country>
+	<country id="SY">République arabe syrienne (Syrie)</country>
+	<country id="RO">Roumanie</country>
+	<country id="GB">Royaume-Uni de Grande-Bretagne et d'Irlande du Nord</country>
+	<country id="RW">Rwanda</country>
+
+<!-- S -->
+
+	<country id="EH">Sahara Occidental</country>
+	<country id="SH">Sainte-Hélène (Île de)</country>
+	<country id="KN">Saint-Kitts-et-Nevis</country>
+	<country id="LC">Sainte-Lucie (Île État insulaire des Antilles)</country>
+	<country id="PM">Saint-Pierre et Miquelon (Île de)</country>
+	<country id="VC">Saint-Vincent-et-les-Grenadines (Île de)</country>
+	<country id="SM">Saint-Marin (République de)</country>
+	<country id="SB">Salomon (État Archipel)</country>
+	<country id="AS">Samoa américaines (Îles)</country>
+	<country id="WS">Samoa occidentales (Îles)</country>
+	<country id="ST">Sao Tomé-et-Principe (République démocratique de)</country>
+	<country id="SN">Sénégal</country>
+	<country id="RS">Serbie (République de)</country>
+	<country id="SC">Seychelles (République des)</country>
+	<country id="SL">Sierra Leone</country>
+	<country id="SG">Singapour</country>
+	<country id="SX">Saint-Martin (Île de)</country>
+	<country id="SK">Slovaquie</country>
+	<country id="SI">Slovénie</country>
+	<country id="SO">Somalie</country>
+	<country id="SD">Soudan</country>
+	<country id="SS">Soudan du Sud</country>
+	<!--<country id="">Spratleys (Îles)</country>-->
+	<country id="LK">Sri Lanka</country>
+	<country id="SR">Suriname</country>
+	<country id="SZ">Swaziland</country>
+	<country id="SW">Suède</country>
+	<country id="CH">Suisse</country>
+	<country id="SJ">Svalbard (Archipel des Îles)</country>
+
+<!-- T -->
+
+	<country id="TJ">Tagikistan</country>
+	<country id="TZ">Tanzanie (République-Unie de)</country>
+	<country id="CZ">Tchéquie (République Tchèque)</country>
+	<country id="TF">Terres australes et antarctiques françaises</country>
+	<country id="IO">Territoire britannique de l'océan Indien (Archipel)</country>
+	<country id="TH">Thaïlande</country>
+	<country id="TW">Taïwan (République de Chine)</country>
+	<country id="TD">Tchad</country>
+	<country id="TL">Timor oriental</country>
+	<country id="TG">Togo</country>
+	<country id="TK">Tokelau (Îles-Archipel)</country>
+	<country id="TO">Tonga (Archipel des)</country>
+	<country id="TT">Trinité et Tobago (État Archipel)</country>
+	<!--<country id="">Tromelin (Île)</country>-->
+	<country id="TN">Tunisie</country>
+	<country id="TR">Turquie</country>
+	<country id="TM">Turkménistan</country>
+	<country id="TC">Îles Turques-et-Caïques (Archipel des)</country>
+	<country id="TV">Tuvalu (État Archipel des)</country>
+
+<!-- U -->
+
+	<country id="UA">Ukraina</country>
+	<country id="UY">Uruguay</country>
+
+<!-- V -->
+
+	<country id="VU">Vanuatu (État Archipel - République du)</country>
+	<country id="VA">Vatican (Saint-Siège)</country>
+	<country id="VE">Venezuela (République bolivarienne du)</country>
+	<country id="VN">Viêt Nam (République socialiste du)</country>
+
+
+<!-- W -->
+
+	<!--<country id="">Wake (Atoll)</country>-->
+	<country id="WF">Wallis-et-Futuna (Îles de)</country>
+
+<!-- Y -->
+
+	<country id="YE">Yémen</country>
+
+<!-- Z -->
+
+	<country id="ZM">Zambie</country>
+	<country id="ZW">Zimbabwe</country>
+
+	</countryset>
