@@ -1,0 +1,23 @@
+
+
+Sécuruté informatique - Sécuriser son environnement informatique
+
+Sécuriser un environnement informatique nécessite de mesurer le potentiel exposable et de déployer les moyens de rendre cette exposition la moins vulnérable possible, plusieurs critères sont à prendre en compte lors de la mise en place de contre-mesures, le périmètre se décline par les différentes strates intimement liées qui sont au nombre de 4 majeures et leurs déclinaisons, la strate concernant l'environnement physique, la strate concernant le matériel, le système d'exploitation et les logiciels, et enfin les accès client/serveur et internet
+
+répandre les stratégies selon le périmètre
+
+-- Physique - Sécuriser les locaux, selon les environnements (fréquence d'accès et mouvements humains) le matériel a besoin de rester confiné et scellé, verrouillage de la salle, coffrer le matériel, avec des accès d'autorité dûment mandaté...
+  |__ Matériel car selon le type de matériel, et la sensibilité des données qu'il embarque les mesures dédiés sont distinctes, sédentaire, nomades, pe, un portable doit embarquer des stratégies concernant les accès via les différents ports, dongle, Wifi, filaire, etc. Le verrouillage en cas d'inactivité, selon le niveau de sensibilité des données prévoir un coffre numérique chiffré, alors qu'une station de travail est généralement exempt de réseau sans fil. Ce sont quelques unes des stratégies dédiés qui doivent faire l'objet d'attention particulières. 
+
+-- Le système d'exploitation et les logiciels - Si on peut définir des privilèges d'accès aux systèmes il doit en être de même pour les logiciels,
+  |__ Système avec des profils ayant différents privilèges, d'administration, utilisé uniquement de manière ponctuelle pour des tâches de maintenance, et les profils d'utilisation, dédiés aux différentes tâches courantes.
+     |__ Logiciels, l'installation de logiciels doit être uniquement pris en considération par le root, sauf exeptions l'installation doit être préalablement justifié et soumise à l'administrateur du système, on peut aisément comprendre les raisons de précaution côté sécurité, mais aussi prendre en considération les versionning utiles en cas de mainternance et de mises-à-jour. 
+
+     |__ Logiciels clients, Navigateurs, postfix, CRM, ICM, Il arrive que des modules et autres plugins se greffent aux outils clients car la tendance veut que les outils clients puissent accéder à une miriade de services via le cloud, PaaS, SaaS, DaaS, etc. Ces services accessibles par exemple depuis un navigateur.
+
+     |__ Logiciels greffons, communément appelées les plugins ce sont des outils qui se greffent généralement aux outils d'accès clients, navigateurs, postfix courriel, ces greffons peuvent être utiles pour ajouter des fonctionnalités supplémentaires aux outils clients, outils pour limiter le pistage, contrôler l'exécution de script et autres contenus dynamiques, outils pour chiffrer et contrôler le courriel, etc. Mais peuvent aussi être redoutables pour la sécurité si l'on néglige certains aspects, comme les renseignements involontaires que l'on peut extraire des navigateurs et qui peuvent servir à identifier le système, le navigateur, les versions, et plus si on sait hacker.
+
+
+-- Client et Serveur, l'environnement client serveur concerne l'administration des accès réseau, les ports disponibles, 
+
+
